@@ -1,0 +1,13 @@
+github.com/ellenkorbes/bread v0.0.0-20190128202550-761b0760e184 h1:ya9U8jz2A9oWIwMKZk5eEdoBy56XcTiXoURTdaraj/0=
+github.com/ellenkorbes/bread v0.0.0-20190128202550-761b0760e184/go.mod h1:b5HLgqwNVq+qEInPDqJcru/TCU/cS5wF1wc9kdMGSuE=
+github.com/ellenkorbes/coffee v0.0.0-20190128202521-50ac2b7ea97b h1:nD5VuB22x5exJpZk8a93/ycwlEJRwpRdHMQWyb6TLXo=
+github.com/ellenkorbes/coffee v0.0.0-20190128202521-50ac2b7ea97b/go.mod h1:S8/po51ovaPcx1/rW2LblPcbsCJnpANNDPj/ZAXf2Do=
+github.com/ellenkorbes/parent v0.0.0-20190127212203-ffa3572468f9 h1:9Ph4MbsFtcXY2yUwY1XzXuYpZzdGAetBQyCoGJZI5A4=
+github.com/ellenkorbes/parent v0.0.0-20190128203849-3050dad0db21 h1:HD75wpROgyjYHsO//GprgBcgcVJ0hxAUFSWzVwGapLM=
+github.com/ellenkorbes/parent v0.0.0-20190128203849-3050dad0db21/go.mod h1:oSI46FHTe46HsL4q51Q6gdgYwCXk6flLbS/Hau4t5iM=
+github.com/ellenkorbes/partner v0.0.0-20190128201938-8e463dea9f2a h1:se4LTm+Ij+IntFhhpYAFjB7BX54uJI52BnMWXUm2AJA=
+github.com/ellenkorbes/partner v0.0.0-20190128201938-8e463dea9f2a/go.mod h1:28Cr4mO+ie02ths8V60vx5sZ9CnxCDPRHZrBaji5RI4=
+github.com/ellenkorbes/partner v0.0.0-20190128203526-2f6ed47a09da h1:k66TAfuCN6gHlQfro1wYQE9RMd6N82VUPBdto8lX+14=
+github.com/ellenkorbes/partner v0.0.0-20190128203526-2f6ed47a09da/go.mod h1:28Cr4mO+ie02ths8V60vx5sZ9CnxCDPRHZrBaji5RI4=
+github.com/ellenkorbes/water v0.0.0-20190128104924-2ee603e5a858 h1:UYBqOCAssaOWCM+l8WPkE0wY/sd3YHvutuY4r911lto=
+github.com/ellenkorbes/water v0.0.0-20190128104924-2ee603e5a858/go.mod h1:t+3zABd2bp7xV4Y5A47oIofFWJGBX4IBQowO0vF1Isw=
